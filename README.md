@@ -2,7 +2,7 @@
 
 Because *“I swear I took the screenshot”* isn’t evidence.
 
----
+
 
 ## Overview
 
@@ -12,7 +12,7 @@ Screenshots often contain critical information such as payment confirmations, de
 
 gotProof bridges this gap by automatically understanding screenshots and triggering meaningful actions using Accomplish as an execution layer.
 
----
+
 
 ## The Problem
 
@@ -33,7 +33,7 @@ However, they:
 
 Managing screenshots becomes a repetitive and inefficient task.
 
----
+
 
 ## The Solution
 
@@ -47,7 +47,7 @@ Instead of storing screenshots, it:
 
 This eliminates the need for manual sorting, tagging, or searching.
 
----
+
 
 ## How It Works
 
@@ -66,7 +66,7 @@ Examples:
 | Error message        | Fix note generated |
 | Study content        | Summary created    |
 
----
+
 
 ## Role of Accomplish
 
@@ -90,13 +90,13 @@ Custom skills used:
 
 These enable decision-based automation from screenshot content.
 
----
+
 
 ## System Workflow
 
 Screenshot → OCR → Intent Detection → Action Routing → Accomplish Skill Execution
 
----
+
 
 ## Tech Stack
 
@@ -118,7 +118,7 @@ Ollama (Mistral)
 Automation Layer
 Accomplish (Custom Skills)
 
----
+
 
 ## Privacy
 
@@ -138,7 +138,7 @@ gotProof operates locally.
 * Summarizing learning material
 * Organizing visual records
 
----
+
 
 ## Demo
 
